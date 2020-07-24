@@ -11,7 +11,7 @@ module.exports = themeConfig => {
     nav: themeConfig.nav || [
       {
         text: 'Blog',
-        link: '/',
+        link: '/blog',
       },
       {
         text: 'Tags',
